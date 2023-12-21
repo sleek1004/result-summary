@@ -14,7 +14,6 @@ body {
   display: grid;
   justify-content: center;
   align-items: center;
-
   padding-right: 30px;
 }
 .number {
